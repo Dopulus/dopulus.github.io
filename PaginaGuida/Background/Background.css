@@ -1,0 +1,115 @@
+body {
+    background-color: pink;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin: 0;
+    font-size: 20px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    background-color: black;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 5px #000;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 150px;
+    margin-left: 60px;
+    padding-left: auto;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    color: white;
+    align-items: center;
+    font-family: bodoni;
+    font-weight: bold;
+}
+
+header img {
+    width: 250px;
+    margin: 0%;
+    padding: 0%;
+}
+
+nav {
+    display: flex;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: black;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 5px #000;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+nav a:hover {
+    color: pink;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin-left: 30px;
+}
+
+main {
+    background-color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 5px #000;
+    font-size: 15px;
+}
+
+main p {
+    font-family: edu;
+    font-size: 20px;
+}
+
+main ul li {
+    margin-bottom: 10px;
+    font-family: edu;
+    font-size: 20px;
+}
+
+main a {
+    color: white;
+    text-decoration: none;
+}
+
+main a:hover {
+    color: pink;
+}
+
+main a:visited {
+    color: lightpink;
+}
+
+footer {
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: 0px 0px 5px #000;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
