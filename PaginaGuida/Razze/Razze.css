@@ -79,7 +79,12 @@ main {
     font-size: 15px;
 }
 
-main p h2{
+main h2{
+    font-family: edu;
+    font-size: 20px;
+}
+
+main p {
     font-family: edu;
     font-size: 20px;
 }
