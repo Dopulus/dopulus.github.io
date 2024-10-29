@@ -96,7 +96,7 @@ main a {
 }
 
 main a:hover {
-    color: green;
+    color: purple;
 }
 
 main a:visited {
