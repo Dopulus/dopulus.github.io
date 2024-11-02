@@ -38,6 +38,6 @@ La scheda del personaggio è fondamentale per il gioco. Ecco i passaggi per crea
 
 ## Contatti
 
-Per domande, suggerimenti o supporto, entra nel server discord: [https://discord.gg/aNx4CFVg]
+Per domande, suggerimenti o supporto, scivi a questa mail [---]
 
 Grazie per aver visitato il nostro sito! Buon divertimento nel tuo viaggio nel mondo di Dungeons & Dragons!
